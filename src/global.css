@@ -10,12 +10,11 @@ body {
   /* font sizes */
   --font-size-lg: 1.13rem;
   --font-size-3xs: 0.63rem;
-  --font-size-mini: 0.94rem;
-  --font-size-8xs: 0.31rem;
+  --font-size-5xs: 0.5rem;
+  --font-size-mid: 1.06rem;
   --font-size-xl: 1.25rem;
+  --font-size-mini: 0.94rem;
   --font-size-xs: 0.75rem;
-  --font-size-9xs: 0.25rem;
-  --font-size-7xs: 0.38rem;
 
   /* Colors */
   --color-white: #fff;
